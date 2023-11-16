@@ -1,0 +1,18 @@
+ .box{
+    text-align: center;
+    display: flex;
+    border: 5px solid gray;
+    width: 20.5%;
+}
+.row:nth-child(odd) .black:nth-child(even),
+.row:nth-child(even) .black:nth-child(odd){
+    background-color: #70abea;
+}
+.row:nth-child(odd) .black:nth-child(odd),
+.row:nth-child(even) .black:nth-child(even){
+    background-color: #fbfbfb;
+}
+.black{
+    width: 25px;
+    height: 25px;
+}

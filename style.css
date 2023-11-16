@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <style>
+            div{
+                background-color: lightgray;
+                height: 30px;
+                padding: 2px;
+            }
+            li{
+                display:inline;
+              padding: 1%;
+            }
+            ul{
+                display:inline;
+                padding: 65%;
+            }
+            h1{
+                color:red;
+                padding:inline;
+            }
+            h2{
+                color: white;
+                padding-top:5px;
+                display:inline-block ;
+            }.black{
+                background-color: black;
+                height:130px;
+                text-align: center;
+            }.one{
+                background-color:lightgrey ;
+                height:200px;
+                padding-left: 10px;
+            }
+            .cent{
+                color: lightgray;
+                display:inline-block;
+            }
+            .white
+            {
+                background-color: black;
+                height: 600px ;
+                text align:center;            
+            }
+            p{
+                color:white;
+            }
+            .small{
+                width:20%;
+                color:white
+            }
+            .two{padding-left: 50%;
+            height:150px ;
+             width: 150px;
+            background-color: white;
+            padding-left: 50px;
+            }
+            
+        </style>
+    </he
